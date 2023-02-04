@@ -4,7 +4,6 @@
  */
 package Models;
 
-import ControlThreads.InputListener;
 import Views.ServerView;
 import java.io.DataInputStream;
 import java.io.IOException;
