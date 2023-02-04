@@ -24,3 +24,9 @@ Temporary Items
 
 # Ignore logs
 *.log
+
+#Intellij
+.idea
+
+#Compilation
+*.class
